@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap');
+body{
+    background-image: url('../images/nature.jpg');
+    font: montserrat;
+    margin-left: 20px;
+    background-size: cover;
+background-repeat: no-repeat;
+padding: 160px;
+margin-bottom: 20px;
+height: 100%;
+width: 100%;
+
+}
+h3{
+    font-size: 20px;
+}
+h4{
+    font-size: 16px;
+}
+form{
+    max-width: 400px;
+    width: 40%;
+    height: 50%;
+    border-radius: 8px;
+}
+label{
+    display: block;
+    margin-bottom: 0px;
+}
+
+
+.submit{
+    background-attachment:#6dad1e;
+    color: #fff;
+    justify-content: center;
+align-items: center;
+}
+
+.active{
+    color: #6dad1e;
+}
+input{
+    width: 345px;
+    padding: 1%;
+    box-sizing: border-box;
+}
+.content-container{
+    background-color:rgba(240,246.180.0.8) ;
+    align-items: center;
+    display: block;
+    padding: 10px 15px;
+    width: 100%;
+}
+.Register-container>img{
+    position: absolute;
+    left: 500px;
+}
+.Register-container>input{
+    outline:none;
+    text-align: center;
+    background-color:transparent;
+}
+
+
+    
+
+.password-container{
+    position: relative;
+    margin-top: 15px;
+    outline: none;
+}
+.password-container>img{
+    position: absolute;
+    bottom: 5px;
+    left: 310px;
+}
+.password-container>input{
+    outline: none;
+}
+button{
+    border-radius: 6px;
+    color: white;
+    background-color: #6dad1e;
+    padding: 10px 15px;
+    width: 80%;
+}
+ a{
+    color: #6dad1e;
+ }
